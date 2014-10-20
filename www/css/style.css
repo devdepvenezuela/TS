@@ -48,6 +48,7 @@ h2.page_title{ font-size:30px;padding:0 0 20px 0;}
 
 .scrolltop{ width:40px; height:40px;margin:auto; display:block;}
 .scrolltop a{ color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px; display:block; text-align:center;}
+
 .scrolltop a img{display:inline-block;max-height:28px; margin:5px 0 0 0;}
 /*----------page buttons---------------*/
 a.button_12{ width:48%; margin:0 1% 10px 1%;padding:10px 0; float:left; display:block;font-size:18px; text-decoration:none; text-align:center;}

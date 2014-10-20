@@ -13,14 +13,19 @@ h2.page_title{color:#ffffff;}
 
 /* Menu style
 /*------------------------------------------*/
-.menu{ width:100%; padding:0px; margin:0px 0 50px 0;}
+.menu{ width:100%; padding:0px; margin:0px 0 50px 0; font-family: Tahoma, Geneva, sans-serif}
 .menu ul{ list-style:none; padding:0px; margin:0px; width:100%;}
 .menu ul li{ list-style:none; margin:3% 0 0 3%; padding:5.5% 0; width:45.5%;height:auto; float:left; display:block; text-align:center;}
 .menu ul li a{ color:#FFFFFF; text-decoration:none;  text-align: center;} 
 .menu ul li a span{ display:block; text-align:center; font-size:14px; line-height:25px;}
 .menu ul li img{ display:inline-block;max-width:50%;}
 
-.sliderbg_menu{background: url(images/bg-metro.jpg) no-repeat center center;background-attachment:fixed; -webkit-background-size: 100%; -moz-background-size: 100%;-o-background-size: 100%;background-size: 100%;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; background-size: cover;}
+/*.sliderbg_menu{background: url(images/22.jpg) no-repeat center center;background-attachment:fixed; -webkit-background-size: 100%; -moz-background-size: 100%;-o-background-size: 100%;background-size: 100%;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; background-size: cover;}*/
+
+.sliderbg_menu{
+	background-color:#035792;
+
+	}
 .sliderbg{}
 
 .scrolltop{ border:1px #fff solid;}
